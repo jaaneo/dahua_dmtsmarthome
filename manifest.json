@@ -1,0 +1,11 @@
+{
+  "domain": "dahua_dmtsmarthome",
+  "name": "Dahua Custom Integration DMT",
+  "version": "1.0",
+  "iot_class": "local_polling",
+  "documentation": "https://github.com/jaaneo/dahua_dmtsmarthome",
+  "issue_tracker": "https://github.com/jaaneo/dahua_dmtsmarthome/issues",
+  "dependencies": [],
+  "requirements": [], 
+  "codeowners": ["@jaaneo"]
+}
